@@ -4,6 +4,6 @@
 
 🔍 My goal is to continuously learn, contribute to open-source projects, and share my knowledge with the community.
 
-🎯 _Skills_: Python, R, SQL, Machine Learning, Power BI, Tableau, NumPy, Pandas, Scikit-learn
+🎯 _Skills_: Python, R, SQL, Machine Learning, Power BI, Tableau, SPSS, IBM Cognos
 
 ✨ Let’s connect and collaborate! Feel free to check out my projects and reach out if you'd like to work together.
